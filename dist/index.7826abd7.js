@@ -2973,7 +2973,7 @@ function App() {
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
         children: [
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h1", {
-                children: " Hello Mohd Ammar How are you"
+                children: " Hello "
             }, void 0, false, {
                 fileName: "App.js",
                 lineNumber: 28,
@@ -2993,6 +2993,16 @@ function App() {
                 fileName: "App.js",
                 lineNumber: 29,
                 columnNumber: 8
+            }, this),
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
+                children: [
+                    "author ",
+                    quote?.author
+                ]
+            }, void 0, true, {
+                fileName: "App.js",
+                lineNumber: 30,
+                columnNumber: 8
             }, this)
         ]
     }, void 0, true, {
@@ -3006,7 +3016,7 @@ _c = App;
 const root = (0, _clientDefault.default).createRoot(document.getElementById("root"));
 root.render(/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(App, {}, void 0, false, {
     fileName: "App.js",
-    lineNumber: 34,
+    lineNumber: 35,
     columnNumber: 13
 }, undefined));
 var _c;

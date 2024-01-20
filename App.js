@@ -25,8 +25,9 @@ function App()
     }
     
     return <div>
-       <h1> Hello Mohd Ammar How are you</h1>
+       <h1> Hello </h1>
        <p>your toadays quote <br/>{quote?.text}</p>
+       <p>author {quote?.author}</p>
     </div>
 }
 
